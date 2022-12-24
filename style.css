@@ -1,0 +1,15 @@
+h3{
+    width: 40%;
+    height: 10%;
+    font-size: 30px !important;
+    font-style: italic;
+}
+button{
+    width: 20%;
+    height: 5%;
+    font-size: 15px !important;
+    font-style: italic;
+}
+canvas{
+    border-style: dashed;
+}
